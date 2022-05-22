@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">practica_4</string>
+    <string name="Nombre2">Nombre2</string>
+    <string name="Regresar">Regresar</string>
+    <string name="Suma">Suma</string>
+    <string name="Resta">Resta</string>
+    <string name="Multiplicacion">Multiplicación</string>
+    <string name="Division">División</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Resultado">Resultado</string>
+    <string name="EL_RESULTADO_ES">EL_RESULTADO_ES</string>
+</resources>
